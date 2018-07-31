@@ -27,7 +27,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/SuperTux/supertux.git",
-                    "commit": "eabe18841b18be7c8d7e469d411f07e62c8e1d7d"
+                    "tag": "v0.1.4"
                 }
             ]
         }
