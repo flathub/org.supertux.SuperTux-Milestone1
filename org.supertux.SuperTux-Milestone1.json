@@ -3,10 +3,10 @@
     "runtime": "org.freedesktop.Platform",
     "runtime-version": "1.6",
     "sdk": "org.freedesktop.Sdk",
-    "command": "supertux",
-    "rename-icon": "supertux",
-    "rename-desktop-file": "supertux.desktop",
-    "rename-appdata-file": "supertux.appdata.xml",
+    "command": "supertux-milestone1",
+    "rename-icon": "supertux-milestone1",
+    "rename-desktop-file": "supertux-milestone1.desktop",
+    "rename-appdata-file": "supertux-milestone1.appdata.xml",
     "finish-args": [
         "--device=all",
         "--share=ipc",
@@ -27,7 +27,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/SuperTux/supertux.git",
-                    "commit": "1c5d432f55468894292cec4c4c7b9fbe71527487"
+                    "commit": "6577c4c202d10a4449be6f54123f4a10c0d18d4b"
                 }
             ]
         }
