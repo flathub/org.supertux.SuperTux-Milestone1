@@ -31,7 +31,10 @@
                 },
                 {
                     "type": "shell",
-                    "commands": [ "autoreconf -vfi" ]
+                    "commands": [ 
+                        "libtoolize",
+                        "autoreconf -vfi" 
+                    ]
                 }
             ]
         }
